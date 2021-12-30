@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Getting data Using yfinance library
-
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 
 import yfinance as yf
