@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-# =============================================================================
-# Automated trading script for OANDA - SMA crossover
-# Author : Mayank Rasu
-
-# Please report bug/issues in the Q&A section
-# =============================================================================
 
 import oandapyV20
 import oandapyV20.endpoints.instruments as instruments
